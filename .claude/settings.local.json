@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx vite:*)",
+      "Bash(export PATH=\"/usr/local/bin:/opt/homebrew/bin:$HOME/.local/bin:$HOME/.nvm/versions/node/*/bin:$PATH\")",
+      "Read(//usr/local/bin/**)",
+      "Read(//opt/homebrew/bin/**)",
+      "Read(//Users/ayitey/Developer/BoughtSpot/moveyoumovers/$HOME/.nvm/versions/node/*/bin/**)",
+      "Read(//Users/ayitey/Developer/BoughtSpot/moveyoumovers/$HOME/.volta/bin/**)",
+      "Read(//Users/ayitey/Developer/BoughtSpot/moveyoumovers/$HOME/.local/share/fnm/node-versions/*/installation/bin/**)"
+    ]
+  }
+}
